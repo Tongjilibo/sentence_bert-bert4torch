@@ -1,0 +1,2 @@
+# sentence_bert-bert4torch
+基于bert4torch框架，sentence_bert的简洁实现，包含SimCSE，TSDAE，ContrastiveLoss，ContrastiveTensionLoss等方案
